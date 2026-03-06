@@ -1,3 +1,9 @@
+# Hazzy note
+
+This fork is right now not being used. check back in like a millon years.
+
+If it's been a millon years and goos have taken over the world try to find the goo the took me as the host and force them to look into my brain and finish this :D
+
 Android Port of LÖVE, an awesome 2D game engine for Lua (http://love2d.org)  
 Copyright (c) 2006-2024 LOVE Development Team
 
