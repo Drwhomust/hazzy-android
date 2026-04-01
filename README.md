@@ -1,8 +1,8 @@
 # Hazzy note
 
-This fork is right now not being used. check back in like a millon years.
+Hazzy is being ported to android
 
-If it's been a millon years and goos have taken over the world try to find the goo the took me as the host and force them to look into my brain and finish this :D
+uhh don't expect much from here check [here](https://github.com/Drwhomust/hazzy) instead
 
 # Love
 
